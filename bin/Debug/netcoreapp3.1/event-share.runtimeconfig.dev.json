@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/Eazy/.dotnet/store/|arch|/|tfm|",
+      "/Users/Eazy/.nuget/packages"
+    ]
+  }
+}
